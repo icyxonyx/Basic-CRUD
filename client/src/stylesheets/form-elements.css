@@ -1,0 +1,57 @@
+input , textarea , select{
+    height: 40px;
+    padding-left: 15px;
+    border: 1px solid #8a8a8a;
+    width: 100%;
+}
+
+input:focus , textarea:focus , select:focus{
+    outline: none;
+    border: 1px solid #373737;
+}
+
+textarea{
+    min-height: 100px;
+    padding: 15px;
+}
+
+.ant-form-item{
+    margin-bottom: 10px;
+}
+
+.min-h-screen {
+    min-height: 60vh;
+  }
+  
+  .bg-gray-100 {
+    background-color: #f7fafc;
+  }
+  
+  .shadow-lg {
+    box-shadow: 0 10px 15px rgba(0, 0, 0, 0.1);
+  }
+  
+  .w-full {
+    width: 100%;
+  }
+  
+  .max-w-md {
+    max-width: 28rem;
+  }
+  
+  .btn-primary {
+    background-color: #1890ff;
+    border-color: #1890ff;
+    color: #fff;
+  }
+  
+  .btn-primary:hover {
+    background-color: #40a9ff;
+    border-color: #40a9ff;
+  }
+  
+  .btn-primary:focus {
+    background-color: #096dd9;
+    border-color: #096dd9;
+  }
+  
