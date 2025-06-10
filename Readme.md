@@ -112,7 +112,7 @@ The frontend is built with React, Redux Toolkit, and Ant Design (antd), while th
 1. **Clone the repository**
 
    ```bash
-   git clone https://github.com/<your-username>/Basic-CRUD-Web.git
+   git clone https://github.com/icyxonyx/Basic-CRUD.git
    cd Basic-CRUD-Web/Basic\ CRUD\ Web
    ```
 
